@@ -1,0 +1,15 @@
+C:\Users\Wuelliton\Desktop\Bancocris\bin\Debug\net6.0\Bancocris.exe
+C:\Users\Wuelliton\Desktop\Bancocris\bin\Debug\net6.0\Bancocris.deps.json
+C:\Users\Wuelliton\Desktop\Bancocris\bin\Debug\net6.0\Bancocris.runtimeconfig.json
+C:\Users\Wuelliton\Desktop\Bancocris\bin\Debug\net6.0\Bancocris.dll
+C:\Users\Wuelliton\Desktop\Bancocris\bin\Debug\net6.0\Bancocris.pdb
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.csproj.AssemblyReference.cache
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.AssemblyInfoInputs.cache
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.AssemblyInfo.cs
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.csproj.CoreCompileInputs.cache
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.dll
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\refint\Bancocris.dll
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.pdb
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\Bancocris.genruntimeconfig.cache
+C:\Users\Wuelliton\Desktop\Bancocris\obj\Debug\net6.0\ref\Bancocris.dll
